@@ -1,0 +1,7 @@
+D:\c# prep\Beginner Projects\MadLib\MadLib\bin\Debug\MadLib.exe.config
+D:\c# prep\Beginner Projects\MadLib\MadLib\bin\Debug\MadLib.exe
+D:\c# prep\Beginner Projects\MadLib\MadLib\bin\Debug\MadLib.pdb
+D:\c# prep\Beginner Projects\MadLib\MadLib\obj\Debug\MadLib.csprojAssemblyReference.cache
+D:\c# prep\Beginner Projects\MadLib\MadLib\obj\Debug\MadLib.csproj.CoreCompileInputs.cache
+D:\c# prep\Beginner Projects\MadLib\MadLib\obj\Debug\MadLib.exe
+D:\c# prep\Beginner Projects\MadLib\MadLib\obj\Debug\MadLib.pdb
