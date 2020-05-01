@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ChooseYourOwnAdventure.cs" />
     <Compile Include="MoneyMaker.cs" />
     <Compile Include="PasswordChecker.cs" />
     <Compile Include="Program.cs" />
