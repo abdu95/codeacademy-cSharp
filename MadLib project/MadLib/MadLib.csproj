@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MadLib.ArchitectArithmetic</StartupObject>
+    <StartupObject>MadLib.ExquisiteCorps</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="ArchitectArithmetic.cs" />
     <Compile Include="ChooseYourOwnAdventure.cs" />
+    <Compile Include="ExquisiteCorps.cs" />
     <Compile Include="MoneyMaker.cs" />
     <Compile Include="PasswordChecker.cs" />
     <Compile Include="Program.cs" />
