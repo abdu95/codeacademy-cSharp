@@ -148,5 +148,17 @@ namespace MadLib
             Console.WriteLine("   /   |   \\");
             Console.WriteLine("   \"\"\"\" \"\"\"\"");
         }
+
+        /*
+         * 
+If you are feeling ambitious, here are some extensions:
+
+Extend the BuildACreature() method so that all of its parameters are optional. It should assign a random body part if a parameter is not specified.
+Recreate this program so that rather than outputting a creature immediately, it prompts a user to select which parts of each creature to use to build a new creature.
+Add a starting mode, so a user can select whether to randomly generate a creature or create one manually.
+Use this ASCII art archive to add other body parts to the program.
+         * https://www.asciiart.eu/animals
+         
+         */
     }
 }
