@@ -25,22 +25,22 @@ namespace MadLib
             {
                 score++;
             }
-            if (Tools.Contains(input, uppercase))
-            {
-                score++;
-            }
-            if (Tools.Contains(input, lowercase))
-            {
-                score++;
-            }
-            if (Tools.Contains(input, digits))
-            {
-                score++;
-            }
-            if (Tools.Contains(input, specialChars))
-            {
-                score++;
-            }
+            //if (Tools.Contains(input, uppercase))
+            //{
+            //    score++;
+            //}
+            //if (Tools.Contains(input, lowercase))
+            //{
+            //    score++;
+            //}
+            //if (Tools.Contains(input, digits))
+            //{
+            //    score++;
+            //}
+            //if (Tools.Contains(input, specialChars))
+            //{
+            //    score++;
+            //}
             Console.WriteLine(score);
             string result = "";
             switch (score)

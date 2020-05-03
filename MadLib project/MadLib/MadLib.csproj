@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MadLib.MoneyMaker</StartupObject>
+    <StartupObject>MadLib.ArchitectArithmetic</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArchitectArithmetic.cs" />
     <Compile Include="ChooseYourOwnAdventure.cs" />
     <Compile Include="MoneyMaker.cs" />
     <Compile Include="PasswordChecker.cs" />
