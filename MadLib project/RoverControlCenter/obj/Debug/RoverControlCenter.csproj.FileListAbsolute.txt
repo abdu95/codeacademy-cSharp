@@ -1,0 +1,7 @@
+D:\c# prep\Beginner Projects\MadLib\MadLib project\RoverControlCenter\bin\Debug\RoverControlCenter.exe.config
+D:\c# prep\Beginner Projects\MadLib\MadLib project\RoverControlCenter\bin\Debug\RoverControlCenter.exe
+D:\c# prep\Beginner Projects\MadLib\MadLib project\RoverControlCenter\bin\Debug\RoverControlCenter.pdb
+D:\c# prep\Beginner Projects\MadLib\MadLib project\RoverControlCenter\obj\Debug\RoverControlCenter.csprojAssemblyReference.cache
+D:\c# prep\Beginner Projects\MadLib\MadLib project\RoverControlCenter\obj\Debug\RoverControlCenter.csproj.CoreCompileInputs.cache
+D:\c# prep\Beginner Projects\MadLib\MadLib project\RoverControlCenter\obj\Debug\RoverControlCenter.exe
+D:\c# prep\Beginner Projects\MadLib\MadLib project\RoverControlCenter\obj\Debug\RoverControlCenter.pdb

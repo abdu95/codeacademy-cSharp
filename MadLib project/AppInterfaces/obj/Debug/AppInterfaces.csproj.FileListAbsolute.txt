@@ -1,0 +1,7 @@
+D:\c# prep\Beginner Projects\MadLib\MadLib project\AppInterfaces\bin\Debug\AppInterfaces.exe.config
+D:\c# prep\Beginner Projects\MadLib\MadLib project\AppInterfaces\bin\Debug\AppInterfaces.exe
+D:\c# prep\Beginner Projects\MadLib\MadLib project\AppInterfaces\bin\Debug\AppInterfaces.pdb
+D:\c# prep\Beginner Projects\MadLib\MadLib project\AppInterfaces\obj\Debug\AppInterfaces.csprojAssemblyReference.cache
+D:\c# prep\Beginner Projects\MadLib\MadLib project\AppInterfaces\obj\Debug\AppInterfaces.csproj.CoreCompileInputs.cache
+D:\c# prep\Beginner Projects\MadLib\MadLib project\AppInterfaces\obj\Debug\AppInterfaces.exe
+D:\c# prep\Beginner Projects\MadLib\MadLib project\AppInterfaces\obj\Debug\AppInterfaces.pdb
