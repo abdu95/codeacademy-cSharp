@@ -80,5 +80,7 @@ namespace ConsoleGame_VS
             else
                 return false;
         }
+        //working in CodeAcademy platform, not in VS
+        //when I run in VS, character is not shown, only target
     }
 }
