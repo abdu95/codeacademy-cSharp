@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleShapes", "ConsoleSha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaesarCipherEncryptDecrypt", "CaesarCipherEncryptDecrypt\CaesarCipherEncryptDecrypt.csproj", "{CAC0C60D-CE87-4CF4-9F63-B0ACD770A80E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrueorFalseQuiz", "TrueorFalseQuiz\TrueorFalseQuiz.csproj", "{6256D9D5-C17E-47E4-8EBB-1822A37BFB49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{CAC0C60D-CE87-4CF4-9F63-B0ACD770A80E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAC0C60D-CE87-4CF4-9F63-B0ACD770A80E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAC0C60D-CE87-4CF4-9F63-B0ACD770A80E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6256D9D5-C17E-47E4-8EBB-1822A37BFB49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6256D9D5-C17E-47E4-8EBB-1822A37BFB49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6256D9D5-C17E-47E4-8EBB-1822A37BFB49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6256D9D5-C17E-47E4-8EBB-1822A37BFB49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
