@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoverControlCenter", "Rover
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleShapes", "ConsoleShapes\ConsoleShapes.csproj", "{5563AB50-73D9-470C-91D7-5479EF658BE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaesarCipherEncryptDecrypt", "CaesarCipherEncryptDecrypt\CaesarCipherEncryptDecrypt.csproj", "{CAC0C60D-CE87-4CF4-9F63-B0ACD770A80E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{5563AB50-73D9-470C-91D7-5479EF658BE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5563AB50-73D9-470C-91D7-5479EF658BE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5563AB50-73D9-470C-91D7-5479EF658BE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAC0C60D-CE87-4CF4-9F63-B0ACD770A80E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAC0C60D-CE87-4CF4-9F63-B0ACD770A80E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAC0C60D-CE87-4CF4-9F63-B0ACD770A80E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAC0C60D-CE87-4CF4-9F63-B0ACD770A80E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
