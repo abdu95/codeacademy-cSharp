@@ -55,9 +55,15 @@ namespace TrueorFalseQuiz
             //}
             //Console.WriteLine($"You got {score} out of {questions.Length} correct");
 
-            string[] questions = { "Moscow is in US", "Tokyo is in Japan", "Cloud is black" };
-            bool[] answers = { false, true, false };
-            RunQuiz(questions, answers);
+            //string[] questions = { "Moscow is in US", "Tokyo is in Japan", "Cloud is black" };
+            //bool[] answers = { false, true, false };
+            //RunQuiz(questions, answers);
+            double sum = 0;
+            for (int i = 4; i <=8; i++)
+            {
+                sum += Math.Pow(i, 2);
+            }
+            Console.WriteLine(sum);
             Console.ReadLine();
         }
 
